@@ -19,10 +19,8 @@ def read_lines():
 x = list(read_lines())
 
 #Input Epoch and Alpha value
-#n= int(input('enter epoch: '))
-#a= float(input('enter alpha: '))
-n=60
-a=0.1
+n= int(input('enter epoch: '))
+a= float(input('enter alpha: '))
 
 #Random Value for Theta 1(q0), Theta 2(q1), Theta 3(q2), Theta 4(q3), and bias
 def tq0():
