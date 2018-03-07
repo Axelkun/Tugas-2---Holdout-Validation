@@ -9,7 +9,7 @@ Created on Tue Mar  6 17:10:04 2018
 """
 Created on Mon Mar  5 15:45:59 2018
 
-@author: Antraxiana
+@author: AXEL
 """
 import pylab as pl
 import numpy as np
